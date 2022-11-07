@@ -1,0 +1,26 @@
+#button{
+size: 50px;
+background-color: darkgreen;
+cursor: pointer;
+}
+
+#a{
+color: lime;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px
+
+}
+
+#bg{
+
+background-color: black;
+
+}
+
+#lab{
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 50px;
+color: red;
+
+}
